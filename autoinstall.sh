@@ -10,5 +10,5 @@ sleep 2
 wget -c http://soft.vpser.net/lnmp/lnmp1.6.tar.gz
 tar -xzvf lnmpq1.6.tar.gz
 cd ./lnmpq1.6
-vim README
+echo 'yzz' >> README
 
